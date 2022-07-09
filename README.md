@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laureanomarenco
 - 👀 I’m interested in Web Developpement, Design, Animation and Social Comunication.
 - ~~ I'm graduated of the Social Communication career.
-- 🌱 I’m currently learning Javascipt, Git, Backend and Frontend.
+- 🌱 I’m currently learning Javascript, Typescript, React, Express.js.
 - 💞️ I’m looking to collaborate on web and app proyects.
 - 📫 How to reach me: laureanomarenco@gmail.com
 
