@@ -9,6 +9,7 @@
 
 # Welcome! 😊
 Soy Laureano, desarrollador web full-stack y estoy en busqueda de mi primer empleo IT, vengo aprendiendo codigo desde 2021 y henry me dió el empujón final para estar listo para el trabajo. 
+Tengo nivel intermedio en Ingles y leo frances.
 
 Lenguajes y herramientas: 
 <p align="left"> 
