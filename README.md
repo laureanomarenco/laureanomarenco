@@ -9,7 +9,7 @@
 
 # Welcome! 😊
 Soy Laureano, desarrollador web full-stack y estoy en busqueda de mi primer empleo IT, vengo aprendiendo codigo desde 2021 y henry me dió el empujón final para estar listo para el trabajo. Estoy con muchas ganas de mi primer experiencia formal y sigo prácticando y aprendiendo mientras atravieso el proceso de busqueda.
-Tengo nivel intermedio en Ingles y leo frances.
+Tengo nivel avanzado en Inglés y leo francés.
 Podés contactarme por mail : laureanomarenco@gmail.com
 
 Lenguajes y herramientas: 
