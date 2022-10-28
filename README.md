@@ -43,4 +43,11 @@ Lenguajes y herramientas:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-front&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-front)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-back&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-back)
 
+
+## Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanomarenco&theme=highcontrast)](https://git.io/streak-stats)
+
+[![laureanomarenco GitHub stats](https://github-readme-stats.vercel.app/api?username=laureanomarenco&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=laureanomarenco&color=ff69b4)
