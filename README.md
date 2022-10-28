@@ -1,6 +1,6 @@
 <div align="center" display="grid">
 
-<img align="center"  src= "https://www.techtarget.com/rms/onlineimages/code_g1133705410.jpg" alt= "laureano"/>
+<img align="center"  src= "https://res.cloudinary.com/dg7ssgadn/image/upload/v1666983221/banner_ndasjy.png" alt= "laureano"/>
 </div>
 
 <a href="https://www.linkedin.com/in/laureano-marenco/">
