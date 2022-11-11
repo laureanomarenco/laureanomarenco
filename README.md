@@ -33,6 +33,10 @@ Lenguajes y herramientas:
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanomarenco&layout=compact&theme=slateorange )](https://github.com/laureanomarenco/)
 <br/>
 ### Proyectos
+[E-COMMERCE](https://pokemon-tribute.vercel.app/](https://hakuna-batata.vercel.app/)
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=pokemon-front&theme=apprentice)](https://github.com/laureanomarenco/e-commerce-next)
+
 [POKEMON TRIBUTE](https://pokemon-tribute.vercel.app/) - PI @SoyHenry Bootcamp
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=pokemon-front&theme=apprentice)](https://github.com/laureanomarenco/pokemon-front)
