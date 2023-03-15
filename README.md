@@ -8,7 +8,7 @@
 </a>&nbsp;&nbsp;
 
 # Welcome! 😊
-Soy Laureano, desarrollador web full-stack y estoy en busqueda de mi primer empleo IT, vengo aprendiendo codigo desde 2021 y actualmente estoy trabajando para ASJ servicios.
+Soy Laureano, desarrollador web full-stack, vengo aprendiendo codigo desde 2021 y actualmente estoy trabajando para ASJ servicios.
 Podés contactarme por mail en laureanomarenco@gmail.com o en mi [Linkedin](https://www.linkedin.com/in/laureano-marenco/), además también podés enviarme un mail a través de mi [Portfolio](https://laureanomarenco.vercel.app)
 
 Lenguajes y herramientas: 
